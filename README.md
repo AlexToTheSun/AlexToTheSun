@@ -26,25 +26,29 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 - [Agoric](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Agoric-mainnet.md)
 - [Tgrade](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Tgrade-Mainnet.md)
 
+#### Instructions :octocat:
+- [Disk Usage Optimisation](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Disk-Usage-Optimisation.md): A guide to optimize a disk space that a Cosmos SDK app uses.
+- [State Sync](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/README.md#how-to-run-your-own-rpc-with-state-sync): How to **run your own RPC** with State Sync
+- [Hermes relayer](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Hermes-relayer.md): Run Hermes relayer with new channels. 
+- [Cosmovisor](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Cosmovisor.md): Instruction how to use a **wrapper** for a Cosmos SDK app.
+- [Server Protection](https://github.com/AlexToTheSun/Validator_Activity/blob/main/Mainnet-Guides/Minimum-server-protection.md): New passwd, Firewall, SSH port, SSH key, File2ban, Multi-factor entry.
+- [Monitoring](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/Rebus/Monitoring): Prometheus+Grafana for monitore servers with Cosmos.
+- [tmkms](https://github.com/AlexToTheSun/Validator_Activity/blob/main/Mainnet-Guides/Agoric/tmkms-(separated-server).md): Tendermint Key Management System on a separated server. 
+- [Sentry Node](https://github.com/AlexToTheSun/Validator_Activity/blob/main/Mainnet-Guides/Agoric/Sentry-Node-Architecture.md): The Validator DDoS protection.
+
 #### Project Docs ✍️
 - [Agoric](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Mainnet-Guides/Agoric)
 - [Gravity Bridge](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Mainnet-Guides/Gravity-Bridge)
 - [Tgrade](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Mainnet-Guides/Tgrade)
 - [Axelar](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/Axelar)
+- [IDEP](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Mainnet-Guides/IDEP)
 - [Rebus](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/Rebus)
 - [SEI](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/SEI-testnet-devnet)
 - [Source](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/Source)
 - [Stride](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/Stride)
 - [StaFiHub](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/StafiHub)
 
-#### Instructions :octocat:
-- [State Sync](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/README.md#how-to-run-your-own-rpc-with-state-sync):How to run your own RPC with State Sync
-- [Hermes relayer](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Hermes-relayer.md)
-- [Cosmovisor](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Cosmovisor.md)
-- [Server Protection](https://github.com/AlexToTheSun/Validator_Activity/blob/main/Mainnet-Guides/Minimum-server-protection.md): Changing the passwd, Firewall, SSH port, SSH key login, File2ban, Multi-factor entry.
-- [Monitoring](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/Rebus/Monitoring):Prometheus+Grafana
-- [tmkms](https://github.com/AlexToTheSun/Validator_Activity/blob/main/Mainnet-Guides/Agoric/tmkms-(separated-server).md): Tendermint Key Management System on a separated server. 
-- [Sentry Node](https://github.com/AlexToTheSun/Validator_Activity/blob/main/Mainnet-Guides/Agoric/Sentry-Node-Architecture.md): Validatorv DDoS protection
+
 
 
 
