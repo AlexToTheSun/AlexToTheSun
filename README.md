@@ -1,4 +1,4 @@
-### Hi there 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AlexToTheSun&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy" width=460 height=180>
+### Hi there 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AlexToTheSun&count_private=false&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy" width=460 height=180>
 
 I am a blockchain oriented DevOps engineer.
 
