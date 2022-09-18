@@ -25,7 +25,8 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 - [Axelar](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Axelar-testnet-2.md)
 - [Agoric](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Agoric-mainnet.md)
 - [Tgrade](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Tgrade-Mainnet.md)
-- [Rebus](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Rebus-testnet.md)
+- [Haqq](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Haqq-(haqq_54211-2).md)
+- [Umee](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Umee-Mainnet.md)
 
 #### Instructions :octocat:
 - [Disk Usage Optimisation](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Disk-Usage-Optimisation.md): A guide to optimize a disk space that a Cosmos SDK app uses.
