@@ -20,6 +20,7 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 - [Agoric Devnet](https://devnet.explorer.agoric.net/agoric/staking/agoricvaloper1v06akzfvj4l5mnzpfua9w66c9z77qtrxkt23vt)
 - [SEI](https://testnet-explorer.brocha.in/sei%20atlantic-sub-1/staking/seivaloper1qr688u3h9v6xenm7uwn8sp79yh7tgu7672ddmx)
 - [Source](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper153pwnjajdfe9gwvwzuy3sr74f0uepyzpsfe7k0)
+- [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1s4qhe4dy8ghm2c23f85ey8hzxfcc5vmdyke329)
 
 #### State Sync rpc nodes 🛠 
 - [Axelar](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Axelar-testnet-2.md)
@@ -49,6 +50,8 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 - [Source](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/Source)
 - [Stride](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/Stride)
 - [StaFiHub](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/StafiHub)
+- [Umee](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Mainnet-Guides/Umee)
+- [Haqq](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/Haqq)
 
 
 
