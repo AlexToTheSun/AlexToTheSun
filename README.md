@@ -16,11 +16,10 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 
 #### Testnet & Devnet 🌐
 - [Axelar](https://testnet.explorer.testnet.run/axelar-testnet-2/staking/axelarvaloper1eu28tqtanwe0fsl9nrfazr4re3rfewah889qg6)
-- [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1vwrja0wdh7pxmdjxjyfuwvcs6s3lw4wd5nxcdq)
-- [Agoric Devnet](https://devnet.explorer.agoric.net/agoric/staking/agoricvaloper1v06akzfvj4l5mnzpfua9w66c9z77qtrxkt23vt)
-- [SEI](https://testnet-explorer.brocha.in/sei%20atlantic-sub-1/staking/seivaloper1qr688u3h9v6xenm7uwn8sp79yh7tgu7672ddmx)
+- [SEI](https://testnet-explorer.brocha.in/sei/staking/seivaloper1qr688u3h9v6xenm7uwn8sp79yh7tgu7672ddmx)
 - [Source](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper153pwnjajdfe9gwvwzuy3sr74f0uepyzpsfe7k0)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1s4qhe4dy8ghm2c23f85ey8hzxfcc5vmdyke329)
+- [OLLO](http://turnodes.com/ollo/staking/ollovaloper1p4rryfyyfl2rxzg2dugtgkluj8m4umyn5ern08)
 
 #### State Sync rpc nodes 🛠 
 - [Axelar](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Axelar-testnet-2.md)
@@ -28,6 +27,7 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 - [Tgrade](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Tgrade-Mainnet.md)
 - [Haqq](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Haqq-(haqq_54211-2).md)
 - [Umee](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Umee-Mainnet.md)
+- [OLLO](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/OLLO-Testnet.md)
 
 #### Instructions :octocat:
 - [Disk Usage Optimisation](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Disk-Usage-Optimisation.md): A guide to optimize a disk space that a Cosmos SDK app uses.
