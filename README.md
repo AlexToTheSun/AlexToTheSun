@@ -17,17 +17,21 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 #### Testnet & Devnet 🌐
 - [Axelar](https://testnet.explorer.testnet.run/axelar-testnet-2/staking/axelarvaloper1eu28tqtanwe0fsl9nrfazr4re3rfewah889qg6)
 - [SEI](https://testnet-explorer.brocha.in/sei/staking/seivaloper1qr688u3h9v6xenm7uwn8sp79yh7tgu7672ddmx)
-- [Source](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper153pwnjajdfe9gwvwzuy3sr74f0uepyzpsfe7k0)
+- [Source](https://explorer-turetskiy.xyz/source/staking/sourcevaloper153pwnjajdfe9gwvwzuy3sr74f0uepyzpsfe7k0)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1s4qhe4dy8ghm2c23f85ey8hzxfcc5vmdyke329)
-- [OLLO](http://turnodes.com/ollo/staking/ollovaloper1p4rryfyyfl2rxzg2dugtgkluj8m4umyn5ern08)
+- [OLLO](https://ollo.explorers.guru/validator/ollovaloper1p4rryfyyfl2rxzg2dugtgkluj8m4umyn5ern08)
+- [Uptick](https://explorer-turetskiy.xyz/uptick/staking/uptickvaloper1ze8tqpqd4x62j6y0l8wr6y2n9kkpky7sdw0a68)
+- [OKP4](https://okp4.explorers.guru/validator/okp4valoper1g6vmhxt9rdufsufpp044q4euqapmncx0s2tqze)
+- [Empower](https://empower.explorers.guru/validator/empowervaloper1ly00gldy4cgwnhawzq4w79g4z3w2h0rtwhgd85)
 
 #### State Sync rpc nodes 🛠 
 - [Axelar](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Axelar-testnet-2.md)
 - [Agoric](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Agoric-mainnet.md)
+- [Gravity](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Gravity-Bridge.md)
 - [Tgrade](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Tgrade-Mainnet.md)
 - [Haqq](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Haqq-(haqq_54211-2).md)
-- [Umee](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Umee-Mainnet.md)
-- [OLLO](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/OLLO-Testnet.md)
+- [Empower](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/EmpowerChain-Testnet.md)
+- [SEI](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/SEI-atlantic-1.md)
 
 #### Instructions :octocat:
 - [Disk Usage Optimisation](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Disk-Usage-Optimisation.md): A guide to optimize a disk space that a Cosmos SDK app uses.
