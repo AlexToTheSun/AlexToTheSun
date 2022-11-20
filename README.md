@@ -15,8 +15,8 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 - [Tgrade](https://www.mintscan.io/tgrade/validators/tgrade1z79h4cw0plrq423zzzd9273g7jawh4cu0gg5tn)
 
 #### Testnet & Devnet 🌐
-- [Axelar](https://testnet.explorer.testnet.run/axelar-testnet-2/staking/axelarvaloper1eu28tqtanwe0fsl9nrfazr4re3rfewah889qg6)
-- [SEI](https://testnet-explorer.brocha.in/sei/staking/seivaloper1qr688u3h9v6xenm7uwn8sp79yh7tgu7672ddmx)
+- [Neutron](https://neutron.explorers.guru/validator/neutronvaloper1h3rmrjrvt4tm3qzug6rrcuu4uy3z2htvmemz47)
+- [Defund](https://defund.explorers.guru/validator/defundvaloper1yxc3kq8unerkz9ktqtfzwtq08wv63apyrvqh8l)
 - [Source](https://explorer-turetskiy.xyz/source/staking/sourcevaloper153pwnjajdfe9gwvwzuy3sr74f0uepyzpsfe7k0)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1s4qhe4dy8ghm2c23f85ey8hzxfcc5vmdyke329)
 - [OLLO](https://ollo.explorers.guru/validator/ollovaloper1p4rryfyyfl2rxzg2dugtgkluj8m4umyn5ern08)
@@ -32,6 +32,7 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 - [Haqq](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Haqq-(haqq_54211-2).md)
 - [Empower](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/EmpowerChain-Testnet.md)
 - [SEI](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/SEI-atlantic-1.md)
+
 
 #### Instructions :octocat:
 - [Disk Usage Optimisation](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Disk-Usage-Optimisation.md): A guide to optimize a disk space that a Cosmos SDK app uses.
@@ -56,6 +57,7 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 - [StaFiHub](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/StafiHub)
 - [Umee](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Mainnet-Guides/Umee)
 - [Haqq](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/Haqq)
+- [OKP4](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/OKP4)
 
 
 
