@@ -13,16 +13,13 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper14qd4n677jxsuh7fqg7z7kvj2dzjqdkv8pqv7tk)
 - [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper1cpr9l93e4s67svqg0crj0v35t3yl2a9zlst74m)
 - [Tgrade](https://www.mintscan.io/tgrade/validators/tgrade1z79h4cw0plrq423zzzd9273g7jawh4cu0gg5tn)
+- [Quicksilver](https://www.mintscan.io/quicksilver/validators/quickvaloper16alhdngxt2hyw4m32yxmtcntkalpxcy4m0ggex)
 
 #### Testnet & Devnet 🌐
-- [Neutron](https://neutron.explorers.guru/validator/neutronvaloper1h3rmrjrvt4tm3qzug6rrcuu4uy3z2htvmemz47)
-- [Defund](https://defund.explorers.guru/validator/defundvaloper1yxc3kq8unerkz9ktqtfzwtq08wv63apyrvqh8l)
-- [Source](https://explorer-turetskiy.xyz/source/staking/sourcevaloper153pwnjajdfe9gwvwzuy3sr74f0uepyzpsfe7k0)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1s4qhe4dy8ghm2c23f85ey8hzxfcc5vmdyke329)
-- [OLLO](https://ollo.explorers.guru/validator/ollovaloper1p4rryfyyfl2rxzg2dugtgkluj8m4umyn5ern08)
 - [Uptick](https://explorer-turetskiy.xyz/uptick/staking/uptickvaloper1ze8tqpqd4x62j6y0l8wr6y2n9kkpky7sdw0a68)
-- [OKP4](https://okp4.explorers.guru/validator/okp4valoper1g6vmhxt9rdufsufpp044q4euqapmncx0s2tqze)
-- [Empower](https://empower.explorers.guru/validator/empowervaloper1ly00gldy4cgwnhawzq4w79g4z3w2h0rtwhgd85)
+- [Source](https://explorer-turetskiy.xyz/source/staking/sourcevaloper153pwnjajdfe9gwvwzuy3sr74f0uepyzpsfe7k0)
+- [OLLO](https://ollo.explorers.guru/validator/ollovaloper1p4rryfyyfl2rxzg2dugtgkluj8m4umyn5ern08)
 
 #### State Sync rpc nodes 🛠 
 - [Axelar](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Axelar-testnet-2.md)
