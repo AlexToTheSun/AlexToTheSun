@@ -27,8 +27,6 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 - [Gravity](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Gravity-Bridge.md)
 - [Tgrade](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Tgrade-Mainnet.md)
 - [Haqq](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Haqq-(haqq_54211-2).md)
-- [Empower](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/EmpowerChain-Testnet.md)
-- [SEI](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/SEI-atlantic-1.md)
 
 
 #### Instructions :octocat:
