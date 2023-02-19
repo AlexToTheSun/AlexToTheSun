@@ -9,7 +9,6 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 #### Mainnet :earth_americas:
 - [IRISnet](https://www.mintscan.io/iris/validators/iva19ul0uva3fgtm6cd6tceprre4ghsfh6h3u29lcg)
 - [Gravity](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1rqhsh8smda90d3n7txty38n44z5qfqpenp3q2v) [Bridge](https://gravity-bridge.ezstaking.io/validators/gravityvaloper1rqhsh8smda90d3n7txty38n44z5qfqpenp3q2v)
-- [Agoric](https://bigdipper.live/agoric/validators/agoricvaloper1dg6cl026x7fwjagasv7jjlcjkhn60wujwew05a)
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper14qd4n677jxsuh7fqg7z7kvj2dzjqdkv8pqv7tk)
 - [Desmos](https://www.mintscan.io/desmos/validators/desmosvaloper1cpr9l93e4s67svqg0crj0v35t3yl2a9zlst74m)
 - [Tgrade](https://www.mintscan.io/tgrade/validators/tgrade1z79h4cw0plrq423zzzd9273g7jawh4cu0gg5tn)
@@ -22,8 +21,6 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 - [OLLO](https://ollo.explorers.guru/validator/ollovaloper1p4rryfyyfl2rxzg2dugtgkluj8m4umyn5ern08)
 
 #### State Sync rpc nodes 🛠 
-- [Axelar](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Axelar-testnet-2.md)
-- [Agoric](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Agoric-mainnet.md)
 - [Gravity](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Gravity-Bridge.md)
 - [Tgrade](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Tgrade-Mainnet.md)
 - [Haqq](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/Haqq-(haqq_54211-2).md)
