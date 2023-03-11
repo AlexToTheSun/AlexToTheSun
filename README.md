@@ -27,7 +27,8 @@ I spend a lot of free time writing instructions on GitHub for the validator comm
 
 
 #### Instructions :octocat:
-- [Disk Usage Optimisation](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Disk-Usage-Optimisation.md): A guide to optimize a disk space that a Cosmos SDK app uses.
+- [Deploy smartcontracts using Truffle](https://github.com/AlexToTheSun/Validator_Activity/tree/main/Testnet-guides/ConsenSys-zkEVM)
+-  [Disk Usage Optimisation](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Disk-Usage-Optimisation.md): A guide to optimize a disk space that a Cosmos SDK app uses.
 - [State Sync](https://github.com/AlexToTheSun/Validator_Activity/blob/main/State-Sync/README.md#how-to-run-your-own-rpc-with-state-sync): How to **run your own RPC** with State Sync
 - [Hermes relayer](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Hermes-relayer.md): Run Hermes relayer with new channels. 
 - [Cosmovisor](https://github.com/AlexToTheSun/Cosmos_Quick_Wiki/blob/main/Cosmovisor.md): Instruction how to use a **wrapper** for a Cosmos SDK app.
